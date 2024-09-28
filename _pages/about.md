@@ -39,6 +39,3 @@ Dr. Jie Zhi is currently a research professor at the [School of Aerospace Engine
 - A geometrically nonlinear floating node method for damage modeling of composites, *18th European Conference on Composite Materials*, Athens, Greece, 24-28 Jun. (2018)
 - Spectral stochastic homogenization of composites with randomness in constituent material properties, *21st International Conference on Composite Materials*, Xi’an, China, 20-25 Aug. (2017)
 
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d7f39&w=800&t=n&d=Pbdp08_Ujj63W-5DhZpZGOOiMvcmq9yhQ125izfZcV0&co=ffffff&ct=281d1d&cmn=d31159&cmo=2519c9'></script>
